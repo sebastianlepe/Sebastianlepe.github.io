@@ -104,14 +104,14 @@ const CONFIG = {
       position: 'Road Warrior',
       from: 'August 2024',
       to: 'May 2025',
-      companyLink: 'https://example.com',
+      companyLink: '',
     },
     {
       company: 'California State University Stanislaus',
       position: 'Student Research Assistant',
       from: 'August 2023',
       to: 'May 2025',
-      companyLink: 'https://example.com',
+      companyLink: '',
     },
   ],
   certifications: [
@@ -125,26 +125,26 @@ const CONFIG = {
   educations: [
     {
       institution: 'California State University Stanislaus',
-      degree: 'Bachelors Degree in Biology',
+      degree: 'B.A in Biology',
       from: '2023',
       to: '2025',
     },
     {
       institution: 'Hartnell College',
-      degree: 'Associates Degree in Natural Science',
+      degree: 'A.A in Natural Science',
       from: '2021',
       to: '2023',
     },
   ],
   publications: [
     {
-      title: 'Publication Title',
+      title: 'The Complete mitochondrial and plastid genomes of Corallina chilensis from Tomales Bay',
       conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      journalName: 'Taylor & Francis',
+      authors: 'Ivan A. Alejo, Teresa E. Aleman... Sebastian Lepe',
+      link: 'https://www.tandfonline.com/doi/full/10.1080/23802359.2019.1614891',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        '',
     },
     {
       title: 'Publication Title',
