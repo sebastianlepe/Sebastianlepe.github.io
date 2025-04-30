@@ -41,12 +41,12 @@ const CONFIG = {
           link: 'https://github.com/sebastianlepe/Sebastianlepe.github.io/raw/main/Flight-Distance-in-Lizards.pdf',
         },
         {
-          title: 'Project Name',
+          title: 'Energy Efficiency of Foraging Bees',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Ecology Research Project',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/sebastianlepe/Sebastianlepe.github.io/raw/main/Energy-efficiency-of-foraging-bees.png',
+          link: 'https://github.com/sebastianlepe/Sebastianlepe.github.io/raw/main/Ecology-Poster.pdf',
         },
       ],
     },
