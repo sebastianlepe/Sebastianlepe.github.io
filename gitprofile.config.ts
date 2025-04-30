@@ -33,12 +33,12 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Flight Distance in Lizards Assessing the Influences of Environmental Temperature and Substrate Variability',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Undergraduate Research Project',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/sebastianlepe/Sebastianlepe.github.io/raw/main/Flight-distance-in-lizards.png',
+          link: 'https://github.com/sebastianlepe/Sebastianlepe.github.io/raw/main/Flight-Distance-in-Lizards.pdf',
         },
         {
           title: 'Project Name',
