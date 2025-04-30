@@ -80,7 +80,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://github.com/sebastianlepe/Sebastianlepe.github.io/Raw/main/SebastianLepeCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/sebastianlepe/Sebastianlepe.github.io/raw/main/SebastianLepeCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'SPAdes',
